@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: antiquewhite;
+    padding: 20px 0;
+}
+nav{
+    justify-content: space-between;
+    display: flex;
+    width: 90%;
+    
+    margin: 0 auto;
+}
+
+.menubtn{
+    font-size: 14px;
+    background-color: black;
+    color: white;
+    padding: 8px 26px;
+    border-radius: 50px;
+}
+.bataimage{
+    width: 300px;
+    height: 400px;
+}
+.lol{
+    font-size: 14px;
+    border: 1px solid black;
+    color: black;
+    padding: 8px 26px;
+    border-radius: 50px;
+    display: block;
+    
+}
+.bata2image{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    
+}
+main{
+    display: flex;
+    border: 1px solid black;
+    height: 698px;
+}
+.bata1,
+.bata2{
+    flex: 1;
+    background-color: rgb(247, 193, 123);
+}
+.batatitle2{
+    margin: 0 auto;
+    font-size: 70px;
+}
+.batatitle{
+    text-align: center;
+    font-size: 70px;
+    width: fit-content;
+    
+}
+.hello{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 40px;
+    background-color: antiquewhite;
+}
+.top2{
+    text-align: center;
+    background-color: black;
+}
+.hi{
+    padding-top: 30px;
+    background-color: antiquewhite;
+}
+.not{
+    padding: 20px;
+width: 500px;
+margin: 0 auto;
+font-weight: 100;
+
+}
+.lmao{
+
+    font-size: 14px;
+    border: 1px solid black;
+    color: black;
+    padding: 8px 26px;
+    border-radius: 50px;
+    margin-bottom: 4px;
+}
+.mahal{
+
+margin-top: 60px;
+ width: 100%;
+ height: 700px;
+ background-image: url(codm4.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center;
+}
+.text{
+    font-size: 50px;
+    align-items: center;
+    margin-top: 50px;
+    background-color: antiquewhite;
+    
+}
+.textta{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 40px;
+    background-color: antiquewhite;
+}
+.xD{
+    
+    margin-top: 50px;
+    background-color: antiquewhite;
+   gap: 250px;
+    height: 500px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    
+}
+
+    
+.lolse{
+   width: 100%;
+   height: 100%;
+   object-fit: cover;
+      
+}
+.xl{
+
+    background-color: antiquewhite;
+   margin-top: 60px;
+    gap: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.box-image{
+    width: 300px;
+    height: 400px;
+} 
+.rey{
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+
+
